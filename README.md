@@ -1,2 +1,2 @@
 # wealry-deathmatch
-## Open MP & SA-MP Deathmatch Gamemode
+### Open MP & SA-MP Deathmatch Gamemode
